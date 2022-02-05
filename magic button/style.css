@@ -1,0 +1,18 @@
+button {
+    font-size: 50px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:20rem;
+}
+button:hover{
+    background-color: rgb(248, 241, 232);
+    border: 3px solid black;
+    font-size: 60px;
+}
